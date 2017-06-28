@@ -1,12 +1,13 @@
 # 超实用的「Exception」和「Error」解决案例
 
-　　在程序员的一生中，「Exception」和「Error」是不可避免的羁绊。那么，就做好拥抱她们的准备吧！
+　　在程序员的一生中，「Exception」和「Error」是不可避免的羁绊。既然无法避免，那么，就做好拥抱她们的准备吧！在这里，讲述了作者至今为止所遇到过的所有异常和错误的原因及解决方法，为大家提供一个参考。技术路上不想孤单前行，愿与诸君为伴！
+  
 
 ## 目录
 
 第 1 篇：[出现 java.lang.UnsupportedClassVersionError 错误的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/class-version-error.md)
 
-
+第 1 篇：[出现 java.net.MalformedURLException: no protocol 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/malformed-url-exception.md)
 
 
 
