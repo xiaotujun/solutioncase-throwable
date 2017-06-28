@@ -7,7 +7,7 @@
 
 第 1 篇：[出现 java.lang.UnsupportedClassVersionError 错误的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/class-version-error.md)
 
-第 1 篇：[出现 java.net.MalformedURLException: no protocol 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/malformed-url-exception.md)
+第 2 篇：[出现 java.net.MalformedURLException: no protocol 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/malformed-url-exception.md)
 
 
 
