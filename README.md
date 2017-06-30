@@ -11,6 +11,8 @@
 
 第 3 篇：[出现 java.rmi.server.ExportException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/export-exception.md)
 
+第 4 篇：[出现 java.net.ConnectException: Connection refused 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/connect-exception.md)
+
 
 
 
