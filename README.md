@@ -17,6 +17,8 @@
 
 第 6 篇：[出现 org.springframework.beans.factory.BeanCreationException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/bean-creation-exception.md)
 
+第 7 篇：[出现 com.caucho.hessian.io.HessianServiceException: The service has no method named: XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-service-exception.md)
+
 
 
 
