@@ -21,6 +21,8 @@
 
 第 8 篇：[出现 com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/sql-syntax-error-exception.md)
 
+第 9 篇：[出现 HessianConnectionException: HessianProxy cannot connect to XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-connection-exception.md)
+
 
 
 
