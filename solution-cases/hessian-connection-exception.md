@@ -1,4 +1,4 @@
-# 出现 HessianConnectionException: HessianProxy cannot connect to XXX 异常的原因及解决方法
+# 出现 com.caucho.hessian.client.HessianConnectionException: HessianProxy cannot connect to XXX 异常的原因及解决方法
 
 1 异常描述
 ------
