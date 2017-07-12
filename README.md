@@ -23,6 +23,8 @@
 
 第 9 篇：[出现 com.caucho.hessian.client.HessianConnectionException: HessianProxy cannot connect to XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-connection-exception.md)
 
+第 10 篇：[出现 java.lang.OutOfMemoryError: PermGen space 错误的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/out-of-memory-error.md)
+
 
 
 
