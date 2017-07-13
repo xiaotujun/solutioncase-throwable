@@ -31,4 +31,4 @@
 
 ----------
 
-**温馨提示**：如果大家不了解如何修改`hosts`文件，可以参阅「[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)」。
+**温馨提示**：如果大家不了解如何修改`hosts`文件的话，可以参阅「[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)」。
