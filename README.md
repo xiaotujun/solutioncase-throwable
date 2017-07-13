@@ -13,7 +13,7 @@
 
 第 4 篇：[出现 java.net.ConnectException: Connection refused 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/connect-exception.md)
 
-第 5 篇：[出现 org.apache.tomcat.util.bcel.classfile.ClassFormatException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/README.md)
+第 5 篇：[出现 org.apache.tomcat.util.bcel.classfile.ClassFormatException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/class-format-exception.md)
 
 第 6 篇：[出现 org.springframework.beans.factory.BeanCreationException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/bean-creation-exception.md)
 
