@@ -27,6 +27,8 @@
 
 第 11 篇：[出现 java.net.UnknowHostException: XXX.XXX.XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/unknow-host-exception.md)
 
+第 12 篇：[出现 java.util.zip.ZipException: error in opening zip file 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/zip-exception.md)
+
 
 
 
