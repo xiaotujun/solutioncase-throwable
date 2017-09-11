@@ -1,4 +1,4 @@
-# 出现 com.caucho.hessian.io.HessianServiceException: The service has no method named: XXX 异常的原因及解决方法
+# 出现 com.caucho.hessian.io.HessianServiceException 异常的原因及解决方法
 
 
 1 异常描述
