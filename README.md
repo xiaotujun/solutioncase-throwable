@@ -21,11 +21,11 @@
 
 第 6 篇：[出现 org.springframework.beans.factory.BeanCreationException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/bean-creation-exception.md)
 
-第 7 篇：[出现 com.caucho.hessian.io.HessianServiceException: The service has no method named: XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-service-exception.md)
+第 7 篇：[出现 com.caucho.hessian.io.HessianServiceException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-service-exception.md)
 
 第 8 篇：[出现 com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/sql-syntax-error-exception.md)
 
-第 9 篇：[出现 com.caucho.hessian.client.HessianConnectionException: HessianProxy cannot connect to XXX 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-connection-exception.md)
+第 9 篇：[出现 com.caucho.hessian.client.HessianConnectionException 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/hessian-connection-exception.md)
 
 第 10 篇：[出现 java.util.zip.ZipException: error in opening zip file 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/zip-exception.md)
 
