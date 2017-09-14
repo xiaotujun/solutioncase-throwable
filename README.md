@@ -29,6 +29,8 @@
 
 第 10 篇：[出现 java.util.zip.ZipException: error in opening zip file 异常的原因及解决方法](https://github.com/guobinhit/SolutionCase-Exception-and-Error/blob/master/solution-cases/zip-exception.md)
 
+第 11 篇：[出现 org.apache.ibatis.binding.BindingException 异常的原因及解决方法](https://github.com/guobinhit/solutioncase-throwable/blob/master/solution-cases/binding-exception.md)
+
 
 ### 第 2 部分：错误
 
