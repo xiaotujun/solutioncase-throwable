@@ -1,4 +1,4 @@
-# 出现 org.apache.tomcat.xxx.ClassFormatException: Invalid byte tag in constant pool: 15 错误的原因及解决方法
+# 出现 org.apache.tomcat.xxx.ClassFormatException: Invalid byte tag in constant pool: 15 异常的原因及解决方法
 
 ## 1 异常描述
 
