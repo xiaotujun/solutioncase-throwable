@@ -31,7 +31,7 @@
 
 第 11 篇：[出现 org.apache.ibatis.binding.BindingException 异常的原因及解决方法](https://github.com/guobinhit/solutioncase-throwable/blob/master/solution-cases/binding-exception.md)
 
-第 12 篇：[出现 org.apache.tomcat.xxx.ClassFormatException: Invalid byte tag in constant pool: 15 异常的原因及解决方法](https://github.com/guobinhit/solutioncase-throwable/blob/master/solution-cases/class-format-exception2.md)
+第 12 篇：[出现 org.apache.tomcat.x.ClassFormatException: Invalid byte tag in constant pool: 15 异常的原因及解决方法](https://github.com/guobinhit/solutioncase-throwable/blob/master/solution-cases/class-format-exception2.md)
 
 
 ### 第 2 部分：错误
