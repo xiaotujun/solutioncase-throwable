@@ -21,7 +21,7 @@
 
 进入`Run/Debug Configuration`页面，修改虚拟机参数为：
 
-**`-Xms1024M -Xmx2048M -XX:PermSize=128M -XX:MaxPermSize=256M`** 
+**`-Xms1024M -Xmx2048M -XX:PermSize=1028M -XX:MaxPermSize=2056M`** 
 
 具体如何配置，如下图所示：
 
